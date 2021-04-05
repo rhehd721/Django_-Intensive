@@ -53,3 +53,6 @@ MEDIA_URL = '/media/'
 
 ## Bootstrap
 https://getbootstrap.kr/
+
+## 참고 블로그
+https://velog.io/@teddybearjung
