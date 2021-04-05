@@ -1,12 +1,13 @@
 # Django
 - Project 만들기
-    - django-admin startproject mysite
+    - django-admin startproject <project name>
 - Server 실행
-    - python3 manage.py runserver 8080
+    - python3 manage.py runserver <port Num>
 - App 만들기
-    - python3 manage.py startapp polls
+    - python3 manage.py startapp <app name>
 - DB
     - python3 manage.py migrate
+    - python3 manage.py makemigrations <app name>
 
 ## urls.py
 - project/urls.py
